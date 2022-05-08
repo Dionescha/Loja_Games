@@ -1,0 +1,46 @@
+
+body {
+    background-image: url("https://www.acasadocogumelo.com/wp-content/uploads/2019/07/gamer.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+
+  }
+h1 {
+    text-align: center;
+    color:chartreuse;
+    font-size:large;
+    font-family: fantasy;
+    
+}
+.a {
+    text-align: center;
+    font-family:fantasy;
+    font-size:2vw;
+    color:rgb(56, 189, 230)
+    
+}
+.b {
+    text-align: center;
+    font-family:fantasy;
+    font-size:2vw;
+    color:rgb(56, 189, 230)
+}
+.c {
+    text-align: center;
+    font-family:fantasy;
+    font-size:2vw;
+    color:rgb(56, 189, 230)
+}
+.d {
+    text-align: center;
+    font-family:fantasy;
+    font-size:2vw;
+    color:rgb(56, 189, 230)
+}
+.button {
+    text-align: center;
+    font-size: 2vw;
+    
+}
